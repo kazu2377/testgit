@@ -1,1 +1,1 @@
-console.log('hellodhhffffsssfhhesu')
+console.('hellodhhffffsssfhhesu')
