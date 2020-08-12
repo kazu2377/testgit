@@ -1,7 +1,6 @@
 {
   "name": "testgit",
   "version": "1.0.0",
-  "description": "",
   "main": "test.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
@@ -15,5 +14,6 @@
   "bugs": {
     "url": "https://github.com/kazu2377/testgit/issues"
   },
-  "homepage": "https://github.com/kazu2377/testgit#readme"
+  "homepage": "https://github.com/kazu2377/testgit#readme",
+  "description": ""
 }
